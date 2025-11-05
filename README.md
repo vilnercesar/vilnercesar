@@ -2,5 +2,5 @@
 
 
 
-- 🔭 Hoje trabalho como Suporte em TI e sou aluno de Iniciação Cietífica na área orquestração de sistemas
-- 📖 Estudando DevOps
+- 🔭 Hoje trabalho no setor de TI do NUPLAM/UFRN.
+- 📖 Foco em Back-End, DevOps e soluções com IA.
