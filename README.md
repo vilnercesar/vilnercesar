@@ -2,5 +2,5 @@
 
 
 
-- 🔭 Hoje trabalho no setor de TI do NUPLAM/UFRN.
+- 🔭 Hoje sou pesquisador na área de infraestrutura e DevOps do IMD/UFRN.
 - 📖 Foco em Back-End, DevOps e soluções com IA.
